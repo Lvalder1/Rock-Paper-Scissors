@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Comic Neue', cursive;
+    background-color: #387780;
 }
 
 h1 {
@@ -25,4 +27,18 @@ h1 {
 
 .answer {
     text-align: center;
+}
+
+.fa-hand-scissors, .fa-hand-paper, .fa-hand-rock  {
+    background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .player-choice div {
+       padding: 10px;
+    }
+
+    button {
+        transform: scale(0.5);
+    }
 }
