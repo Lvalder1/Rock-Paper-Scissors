@@ -8,7 +8,7 @@ The project is hosted at: https://lvalder1.github.io/Rock-Paper-Scissors/
 
 ## Installing
 
-To install this project and get it working in your local development enviroment you first need to clone down the GitHub repositry using the following command in GitBash:
+To install this project and get it working in your local development enviroment you first need to clone down the GitHub repository using the following command in GitBash:
 `git clone https://github.com/Lvalder1/Rock-Paper-Scissors.git`
 
 Then open up the folder in your favorite code editor and run a local development server to run the project.
