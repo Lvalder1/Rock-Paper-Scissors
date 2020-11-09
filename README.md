@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-This project is your classic game of Rock, Paper, Scissors that has been created so that I could pratice my skills using Javascript. The project was created using HTML, SCSS and Javascript.
+This project is your classic game of Rock, Paper, Scissors that has been created so that I could practice my skills using Javascript. The project was created using HTML, SCSS and Javascript.
 
 ## Runing the Project
 
